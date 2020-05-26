@@ -13,9 +13,13 @@ A realização do mesmo foi dividido pelas seguintes fases:
 
 - Upload dos dados na pasta Dados
 	- [Itália](https://github.com/Tetra134/AA2-Grupo13/blob/master/Data/dpc-covid19-ita-regioni2.csv)
-	- [Fonte](https://github.com/pcm-dpc/COVID-19/blob/master/dati-regioni/dpc-covid19-ita-regioni.csv)
 	- [Espanha](https://github.com/Tetra134/AA2-Grupo13/blob/master/Data/serie_historica_acumulados.csv)
-	- [Fonte](https://www.kaggle.com/python10pm/covid19spain)
 - Preparação dos dados
 - Exploração dos dados em [espanhaVSitalia.ipynb](https://github.com/Tetra134/AA2-Grupo13/blob/master/espanhaVSitalia.ipynb)
 - Predição com modelos baseline em [baseline.ipynb](https://github.com/Tetra134/AA2-Grupo13/blob/master/baseline.ipynb)
+
+### Bibliografia
+
+Dados:
+- [Itália](https://github.com/pcm-dpc/COVID-19/blob/master/dati-regioni/dpc-covid19-ita-regioni.csv)
+- [Espanha](https://www.kaggle.com/python10pm/covid19spain)
