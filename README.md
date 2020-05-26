@@ -1,10 +1,19 @@
-# AA2-Grupo13
-Aprendizagem Automática II - Trabalho prático
+# Aprendizagem Automática II - Trabalho prático
 
 ## Grupo 13
 - João Aloísio - A77953
 - João de Macedo - A76268
 - Nelson Gonçalves - A78173
 
-Neste notebook fazemos uma comparação de como o Covid-19 afetou Espanha e Itália, focando-nos nas suas regiões.
-Na pasta Data, tem a informação das regiões de espanha e itália em relação ao Covid-19 desde o ínicio da sua propagação no respetivo país.
+# Covid-19 em Espanha e Itália, bem como as suas regiões
+
+Este trabalho prático tem como objetivo fazer uma exploração dos dados sobre como o Covid-19 afetou os países Espanha e Itália, focando nas suas regiões.
+
+A realização do mesmo foi dividido pelas seguintes fases:
+
+- Upload dos dados
+	- [Itália](https://github.com/pcm-dpc/COVID-19/blob/master/dati-regioni/dpc-covid19-ita-regioni.csv)
+	- [Espanha](https://www.kaggle.com/python10pm/covid19spain)
+- Preparação dos dados
+- Exploração dos dados em [espanhaVSitalia.ipynb](https://github.com/Tetra134/AA2-Grupo13/blob/master/espanhaVSitalia.ipynb)
+- Predição com modelos baseline em [baseline.ipynb](https://github.com/Tetra134/AA2-Grupo13/blob/master/baseline.ipynb)
