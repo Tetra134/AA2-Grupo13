@@ -16,8 +16,8 @@ A realização do mesmo foi dividido pelas seguintes fases:
 	- [Espanha](https://github.com/Tetra134/AA2-Grupo13/blob/master/Data/serie_historica_acumulados.csv)
 - Preparação dos dados
 - Exploração dos dados em [espanhaVSitalia.ipynb](https://github.com/Tetra134/AA2-Grupo13/blob/master/espanhaVSitalia.ipynb)
-- Predição com modelos baseline em [baseline.ipynb](https://github.com/Tetra134/AA2-Grupo13/blob/master/baseline.ipynb)
-- Predição com modelo LSTM
+- Previsão com modelos baseline em [baseline.ipynb](https://github.com/Tetra134/AA2-Grupo13/blob/master/baseline.ipynb)
+- Previsão com modelo LSTM
 
 ### Bibliografia
 
