@@ -13,7 +13,7 @@ O vírus espalhou-se rapidamente no mundo desde sua primeira aparição na China
 Este trabalho prático tem como objetivo fazer uma exploração dos dados sobre como o Covid-19 afetou os países Espanha e Itália, focando nas suas regiões. Serão usados os dados sobre o impacto que o vírus teve nestes países até aos dias de hoje.
 Posteriormente serão usados modelos deeplearning de maneira a serem obtidas previsões do total de casos infetados por cada região de cada país, bem como o número de curados.
 
-## Exploração dos dados e modelos utilizados
+## Exploração dos dados e construção de modelos
 
 A realização do mesmo foi dividido pelas seguintes fases:
 
@@ -37,6 +37,5 @@ Com isto, é possível ter uma boa preceção de como o virús irá afetar num f
 
 ### Bibliografia
 
-Dados:
 - [Itália](https://github.com/pcm-dpc/COVID-19/blob/master/dati-regioni/dpc-covid19-ita-regioni.csv)
 - [Espanha](https://www.kaggle.com/python10pm/covid19spain)
