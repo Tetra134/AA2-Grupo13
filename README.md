@@ -32,6 +32,8 @@ Inicialmente foi criado um modelo básico e simples, o modelo baseline. Este mod
 - Construção do modelo [LSTM](https://github.com/Tetra134/AA2-Grupo13/blob/master/lstm.ipynb)
 - Construção do modelo [GRU](https://github.com/Tetra134/AA2-Grupo13/blob/master/GRU.ipynb)
 
+Posteriormente, foram criados mais dois modelos, LSTM e GRU. Estes modelos foram aplicados a todas as regiões, quer de Itália, quer de Espanha com o objetivo de obter uma melhor previsão do número de casos infetados e o número de casos curados. Após a aplicação dos modelos foi possível observar que em algumas regiões o resultado é bastante satisfatório, no entanto, noutras regiões, tal não acontece. A nosso ver, o ideal para que tal não ocorresse seria criar um modelo para cada região.
+Com isto, é possível ter uma boa preceção de como o virús irá afetar num futuro próximo cada região de Espanha e Itália e consequentemente fazer uma comparação dos dois países.
 
 ### Bibliografia
 
