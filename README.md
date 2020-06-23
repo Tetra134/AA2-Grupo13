@@ -25,7 +25,7 @@ A realização do mesmo foi dividido pelas seguintes fases:
 
 Após o carregamentos dos dados para um dataframe, os dados foram devidamente preparados com o objetivo de fazer uma exploração dos mesmos e conseguir ter a perceção de como o vírus afetou cada uma das regiões, tanto de Espanha como Itália. É possível observar e comparar o número de casos infetados, número de mortes, tanto em escala normal como em escala logarítmica. Também é possível observar a evolução da mortalidade ao longo do tempo, a taxa de mortalidade, o aumento de pessoas que requerem hospitalização, como também as pessoas que estão nos cuidados intensivos.
 
-- Construção do modelo baseline em [baseline.ipynb](https://github.com/Tetra134/AA2-Grupo13/blob/master/baseline.ipynb)
+- Construção do modelo [baseline](https://github.com/Tetra134/AA2-Grupo13/blob/master/baseline.ipynb)
 
 Inicialmente foi criado um modelo básico e simples, o modelo baseline. Este modelo foi criado com o objetivo de, posteriormente com a criação de modelos mais complexos, fazer uma comparação e observar se há uma melhoria nas previsões de modo a saber se o modelos mais complexos conseguem fazer melhores previsões.
 
